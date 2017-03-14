@@ -60,11 +60,11 @@
   <param name="Layer 1 VCO Tracking" value="on"/>
   <param name="Layer 1 VCO Range" value="16'"/>
   <param name="Layer 1 VCO Frequency" value="0.25"/>
-  <param name="Layer 1 VCO Range Filter Affect" value="off"/>
+  <param name="Layer 1 VCO Range Filter Affect" value="on"/>
   <param name="Layer 1 VCO Sync Mode" value="off"/>
   <param name="Layer 1 VCO Sync Offset" value="0"/>
   <param name="Layer 1 VCO Sync Mix" value="0"/>
-  <param name="Layer 1 VCO Pulse Width" value="0.734625041"/>
+  <param name="Layer 1 VCO Pulse Width" value="0.937484443"/>
   <param name="Layer 1 VCO Pulse Modulation" value="0.0751874968"/>
   <param name="Layer 1 VCO Pulse Modulation Source" value="LFO2"/>
   <param name="Layer 1 Mixer SQR Volume" value="0.866859376"/>
@@ -82,13 +82,13 @@
   <param name="Layer 1 Super Saw Amount" value="0"/>
   <param name="Layer 1 Filter Type" value="LP"/>
   <param name="Layer 1 Filter Mode" value="SH-101"/>
-  <param name="Layer 1 VCF Frequency" value="0.465156198"/>
+  <param name="Layer 1 VCF Frequency" value="0.526468694"/>
   <param name="Layer 1 VCF ENV1" value="0"/>
   <param name="Layer 1 VCF ENV2" value="1"/>
   <param name="Layer 1 VCF LFO1" value="0"/>
   <param name="Layer 1 VCF LFO2" value="0"/>
-  <param name="Layer 1 VCF Keyboard" value="0.501562476"/>
-  <param name="Layer 1 VCF Resonance" value="0.683781266"/>
+  <param name="Layer 1 VCF Keyboard" value="0"/>
+  <param name="Layer 1 VCF Resonance" value="0.683671892"/>
   <param name="Layer 1 VCF Resonance ENV2" value="0"/>
   <param name="Layer 1 VCF Resonance LFO2" value="0"/>
   <param name="Layer 1 HPF Frequency" value="0"/>
@@ -121,7 +121,7 @@
   <param name="Layer 1 LFO2 Sync" value="off"/>
   <param name="Layer 1 LFO2 Mono" value="off"/>
   <param name="Layer 1 LFO2 Keyboard Track" value="off"/>
-  <param name="Layer 1 LFO2 Rate" value="0.356281251"/>
+  <param name="Layer 1 LFO2 Rate" value="0"/>
   <param name="Layer 1 LFO2 Note Rate" value="1/16 bar"/>
   <param name="Layer 1 Velocity Dynamics Curve" value="Linear"/>
   <param name="Layer 1 Sustain Pedal Enabled" value="true"/>
@@ -181,7 +181,7 @@
   <param name="Layer 1 Compression Threshold" value="0.25"/>
   <param name="Layer 1 EQ" value="on"/>
   <param name="Layer 1 EQ Pre Comp" value="off"/>
-  <param name="Layer 1 EQ Low" value="0.643734396"/>
+  <param name="Layer 1 EQ Low" value="0.867718756"/>
   <param name="Layer 1 EQ Mid" value="0.5"/>
   <param name="Layer 1 EQ Mid Frq" value="0.5"/>
   <param name="Layer 1 EQ Hi" value="0"/>
