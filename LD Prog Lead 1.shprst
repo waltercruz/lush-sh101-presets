@@ -82,12 +82,12 @@
   <param name="Layer 1 Super Saw Amount" value="0"/>
   <param name="Layer 1 Filter Type" value="LP"/>
   <param name="Layer 1 Filter Mode" value="SH-101"/>
-  <param name="Layer 1 VCF Frequency" value="0.736250043"/>
+  <param name="Layer 1 VCF Frequency" value="0.656437516"/>
   <param name="Layer 1 VCF ENV1" value="0"/>
   <param name="Layer 1 VCF ENV2" value="1"/>
   <param name="Layer 1 VCF LFO1" value="0"/>
   <param name="Layer 1 VCF LFO2" value="0"/>
-  <param name="Layer 1 VCF Keyboard" value="0.372890621"/>
+  <param name="Layer 1 VCF Keyboard" value="0.633140683"/>
   <param name="Layer 1 VCF Resonance" value="0"/>
   <param name="Layer 1 VCF Resonance ENV2" value="0"/>
   <param name="Layer 1 VCF Resonance LFO2" value="0"/>
@@ -172,7 +172,7 @@
   <param name="Layer 1 Arpe Tie Step 16" value="false"/>
   <param name="Layer 1 Fine Tune" value="0.5"/>
   <param name="Layer 1 Paning" value="0.5"/>
-  <param name="Layer 1 Volume" value="0.183296844"/>
+  <param name="Layer 1 Volume" value="0.351984352"/>
   <param name="Layer 1 Mute" value="false"/>
   <param name="Layer 1 Fader" value="0.800000012"/>
   <param name="Layer 1 Compression" value="off"/>
