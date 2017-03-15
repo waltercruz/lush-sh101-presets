@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset version="1.0" id="3333C848">
+  <param name="Layer 1 Enabled" value="true"/>
+  <param name="Layer 1 Transpose" value="0"/>
+  <param name="Layer 1 Zone Beginning" value="C-0"/>
+  <param name="Layer 1 Zone End" value="G-H"/>
+  <param name="Layer 1 Timbre Preset Name" value="Default"/>
+  <param name="Layer 1 Polyphony Voices" value="1"/>
+  <param name="Layer 1 Polyphony Mono Mode" value="on"/>
+  <param name="Layer 1 Portamento Time" value="0.461031228"/>
+  <param name="Layer 1 Portamento Mode" value="Auto"/>
+  <param name="Layer 1 Unisono Voices" value="1"/>
+  <param name="Layer 1 Unisono Tune Spread" value="0"/>
+  <param name="Layer 1 Unisono Pan Spread" value="0"/>
+  <param name="Layer 1 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 1 Insert Effect" value="None"/>
+  <param name="Layer 1 Chorus Speed" value="Mid"/>
+  <param name="Layer 1 Chorus Mode" value="Fat"/>
+  <param name="Layer 1 Chorus Stereo" value="0.5"/>
+  <param name="Layer 1 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 1 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 1 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 1 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 1 Flanger Invert" value="off"/>
+  <param name="Layer 1 Flanger FX" value="0.5"/>
+  <param name="Layer 1 String Ensemble Mode" value="Light"/>
+  <param name="Layer 1 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 1 String Ensemble Phaser" value="off"/>
+  <param name="Layer 1 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 1 String Ensemble Color" value="on"/>
+  <param name="Layer 1 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 1 Phaser Mode" value="Single"/>
+  <param name="Layer 1 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 1 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 1 Vowel Resonance" value="0.5"/>
+  <param name="Layer 1 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 1 Vowel LFO Depth" value="0"/>
+  <param name="Layer 1 Vowel Position" value="0"/>
+  <param name="Layer 1 Vowel 1" value="A"/>
+  <param name="Layer 1 Vowel 2" value="E"/>
+  <param name="Layer 1 Vowel 3" value="I"/>
+  <param name="Layer 1 Vowel 4" value="O"/>
+  <param name="Layer 1 Vowel 5" value="U"/>
+  <param name="Layer 1 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 1 Distortion Dynamics" value="1"/>
+  <param name="Layer 1 Distortion Preamp" value="0.5"/>
+  <param name="Layer 1 Distortion Threshold" value="0.5"/>
+  <param name="Layer 1 Distortion Shape" value="1"/>
+  <param name="Layer 1 Decimator Preamp" value="0"/>
+  <param name="Layer 1 Decimator AA Mode" value="off"/>
+  <param name="Layer 1 Decimator Frequency" value="1"/>
+  <param name="Layer 1 Decimator Quantize" value="Off"/>
+  <param name="Layer 1 Tremolo Rate" value="0"/>
+  <param name="Layer 1 Tremolo Depth" value="0.5"/>
+  <param name="Layer 1 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 1 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 1 VCO Modulation" value="0.000984375016"/>
+  <param name="Layer 1 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 1 VCO Tracking" value="on"/>
+  <param name="Layer 1 VCO Range" value="2'"/>
+  <param name="Layer 1 VCO Frequency" value="0.25"/>
+  <param name="Layer 1 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 1 VCO Sync Mode" value="off"/>
+  <param name="Layer 1 VCO Sync Offset" value="0"/>
+  <param name="Layer 1 VCO Sync Mix" value="0"/>
+  <param name="Layer 1 VCO Pulse Width" value="0.871874988"/>
+  <param name="Layer 1 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 1 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 1 Mixer SQR Volume" value="0.298039228"/>
+  <param name="Layer 1 Mixer SAW Volume" value="0.592156887"/>
+  <param name="Layer 1 Mixer SUB Volume" value="0.486274511"/>
+  <param name="Layer 1 Mixer SUB Wave" value="Sqr 2 Oct"/>
+  <param name="Layer 1 Mixer Noise Volume" value="0"/>
+  <param name="Layer 1 Mixer Noise Type" value="White"/>
+  <param name="Layer 1 Mixer SQR Env" value="off"/>
+  <param name="Layer 1 Mixer SAW Env" value="off"/>
+  <param name="Layer 1 Mixer SUB Env" value="off"/>
+  <param name="Layer 1 Mixer NOISE Env" value="off"/>
+  <param name="Layer 1 Super Saw" value="off"/>
+  <param name="Layer 1 Super Saw Detune" value="0"/>
+  <param name="Layer 1 Super Saw Amount" value="0"/>
+  <param name="Layer 1 Filter Type" value="LP"/>
+  <param name="Layer 1 Filter Mode" value="SH-101"/>
+  <param name="Layer 1 VCF Frequency" value="0.918869197"/>
+  <param name="Layer 1 VCF ENV1" value="0"/>
+  <param name="Layer 1 VCF ENV2" value="0"/>
+  <param name="Layer 1 VCF LFO1" value="0.0298906248"/>
+  <param name="Layer 1 VCF LFO2" value="0"/>
+  <param name="Layer 1 VCF Keyboard" value="0.262993097"/>
+  <param name="Layer 1 VCF Resonance" value="0.232292905"/>
+  <param name="Layer 1 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 1 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 1 HPF Frequency" value="0.236109376"/>
+  <param name="Layer 1 Bender VCO" value="0.192000002"/>
+  <param name="Layer 1 Bender VCF" value="0"/>
+  <param name="Layer 1 Modulation VCO" value="0.412"/>
+  <param name="Layer 1 Modulation VCF" value="0.412"/>
+  <param name="Layer 1 VCA Source" value="Gate"/>
+  <param name="Layer 1 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 1 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 1 ENV1 Attack" value="0"/>
+  <param name="Layer 1 ENV1 Decay" value="0"/>
+  <param name="Layer 1 ENV1 Sustain" value="1"/>
+  <param name="Layer 1 ENV1 Release" value="0.0941176489"/>
+  <param name="Layer 1 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 1 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 1 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 1 ENV2 Decay" value="0.101960786"/>
+  <param name="Layer 1 ENV2 Sustain" value="0.53725493"/>
+  <param name="Layer 1 ENV2 Release" value="0.145098045"/>
+  <param name="Layer 1 LFO1 Waveform" value="Saw Up"/>
+  <param name="Layer 1 LFO1 Reset" value="Gate"/>
+  <param name="Layer 1 LFO1 Sync" value="on"/>
+  <param name="Layer 1 LFO1 Mono" value="on"/>
+  <param name="Layer 1 LFO1 Keyboard Track" value="on"/>
+  <param name="Layer 1 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 1 LFO1 Note Rate" value="1/8 bar"/>
+  <param name="Layer 1 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 1 LFO2 Reset" value="Gate"/>
+  <param name="Layer 1 LFO2 Sync" value="off"/>
+  <param name="Layer 1 LFO2 Mono" value="off"/>
+  <param name="Layer 1 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 1 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 1 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 1 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 1 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 1 Polyphony Mode" value="Queue"/>
+  <param name="Layer 1 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 1 Arpe Preset Name" value="Default"/>
+  <param name="Layer 1 Arpe Mode" value="Off"/>
+  <param name="Layer 1 Arpe Range" value="1"/>
+  <param name="Layer 1 Arpe Repeat" value="1"/>
+  <param name="Layer 1 Arpe Shuffle" value="0"/>
+  <param name="Layer 1 Arpe Gate" value="0.5"/>
+  <param name="Layer 1 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 1 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 1 Arpe Chord Mode" value="false"/>
+  <param name="Layer 1 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 1 Arpe Length" value="16"/>
+  <param name="Layer 1 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 1 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 1 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 1 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 1 Fine Tune" value="0.5"/>
+  <param name="Layer 1 Paning" value="0.5"/>
+  <param name="Layer 1 Volume" value="1"/>
+  <param name="Layer 1 Mute" value="false"/>
+  <param name="Layer 1 Fader" value="0.91371876"/>
+  <param name="Layer 1 Compression" value="off"/>
+  <param name="Layer 1 Compression Attack" value="Mid"/>
+  <param name="Layer 1 Compression Ratio" value="1:2"/>
+  <param name="Layer 1 Compression Threshold" value="0.25"/>
+  <param name="Layer 1 EQ" value="off"/>
+  <param name="Layer 1 EQ Pre Comp" value="off"/>
+  <param name="Layer 1 EQ Low" value="0.5"/>
+  <param name="Layer 1 EQ Mid" value="0.5"/>
+  <param name="Layer 1 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 1 EQ Hi" value="0.5"/>
+  <param name="Layer 1 Pre Fader" value="off"/>
+  <param name="Layer 1 FX1 Send" value="0"/>
+  <param name="Layer 1 FX2 Send" value="0"/>
+  <param name="Layer 1 FX3 Send" value="0"/>
+  <param name="Layer 2 Enabled" value="false"/>
+  <param name="Layer 2 Transpose" value="0"/>
+  <param name="Layer 2 Zone Beginning" value="C-0"/>
+  <param name="Layer 2 Zone End" value="G-H"/>
+  <param name="Layer 2 Timbre Preset Name" value="Default"/>
+  <param name="Layer 2 Polyphony Voices" value="1"/>
+  <param name="Layer 2 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 2 Portamento Time" value="0"/>
+  <param name="Layer 2 Portamento Mode" value="Auto"/>
+  <param name="Layer 2 Unisono Voices" value="1"/>
+  <param name="Layer 2 Unisono Tune Spread" value="0"/>
+  <param name="Layer 2 Unisono Pan Spread" value="0"/>
+  <param name="Layer 2 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 2 Insert Effect" value="None"/>
+  <param name="Layer 2 Chorus Speed" value="Mid"/>
+  <param name="Layer 2 Chorus Mode" value="Fat"/>
+  <param name="Layer 2 Chorus Stereo" value="0.5"/>
+  <param name="Layer 2 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 2 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 2 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 2 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 2 Flanger Invert" value="off"/>
+  <param name="Layer 2 Flanger FX" value="0.5"/>
+  <param name="Layer 2 String Ensemble Mode" value="Light"/>
+  <param name="Layer 2 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 2 String Ensemble Phaser" value="off"/>
+  <param name="Layer 2 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 2 String Ensemble Color" value="on"/>
+  <param name="Layer 2 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 2 Phaser Mode" value="Single"/>
+  <param name="Layer 2 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 2 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 2 Vowel Resonance" value="0.5"/>
+  <param name="Layer 2 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 2 Vowel LFO Depth" value="0"/>
+  <param name="Layer 2 Vowel Position" value="0"/>
+  <param name="Layer 2 Vowel 1" value="A"/>
+  <param name="Layer 2 Vowel 2" value="E"/>
+  <param name="Layer 2 Vowel 3" value="I"/>
+  <param name="Layer 2 Vowel 4" value="O"/>
+  <param name="Layer 2 Vowel 5" value="U"/>
+  <param name="Layer 2 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 2 Distortion Dynamics" value="1"/>
+  <param name="Layer 2 Distortion Preamp" value="0.5"/>
+  <param name="Layer 2 Distortion Threshold" value="0.5"/>
+  <param name="Layer 2 Distortion Shape" value="1"/>
+  <param name="Layer 2 Decimator Preamp" value="0"/>
+  <param name="Layer 2 Decimator AA Mode" value="off"/>
+  <param name="Layer 2 Decimator Frequency" value="1"/>
+  <param name="Layer 2 Decimator Quantize" value="Off"/>
+  <param name="Layer 2 Tremolo Rate" value="0"/>
+  <param name="Layer 2 Tremolo Depth" value="0.5"/>
+  <param name="Layer 2 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 2 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 2 VCO Modulation" value="0"/>
+  <param name="Layer 2 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 2 VCO Tracking" value="on"/>
+  <param name="Layer 2 VCO Range" value="16'"/>
+  <param name="Layer 2 VCO Frequency" value="0.25"/>
+  <param name="Layer 2 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 2 VCO Sync Mode" value="off"/>
+  <param name="Layer 2 VCO Sync Offset" value="0"/>
+  <param name="Layer 2 VCO Sync Mix" value="0"/>
+  <param name="Layer 2 VCO Pulse Width" value="0"/>
+  <param name="Layer 2 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 2 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 2 Mixer SQR Volume" value="0"/>
+  <param name="Layer 2 Mixer SAW Volume" value="1"/>
+  <param name="Layer 2 Mixer SUB Volume" value="0"/>
+  <param name="Layer 2 Mixer SUB Wave" value="Pulse 2 Oct"/>
+  <param name="Layer 2 Mixer Noise Volume" value="0"/>
+  <param name="Layer 2 Mixer Noise Type" value="White"/>
+  <param name="Layer 2 Mixer SQR Env" value="off"/>
+  <param name="Layer 2 Mixer SAW Env" value="off"/>
+  <param name="Layer 2 Mixer SUB Env" value="off"/>
+  <param name="Layer 2 Mixer NOISE Env" value="off"/>
+  <param name="Layer 2 Super Saw" value="off"/>
+  <param name="Layer 2 Super Saw Detune" value="0"/>
+  <param name="Layer 2 Super Saw Amount" value="0"/>
+  <param name="Layer 2 Filter Type" value="LP"/>
+  <param name="Layer 2 Filter Mode" value="Normal"/>
+  <param name="Layer 2 VCF Frequency" value="1"/>
+  <param name="Layer 2 VCF ENV1" value="0"/>
+  <param name="Layer 2 VCF ENV2" value="0"/>
+  <param name="Layer 2 VCF LFO1" value="0"/>
+  <param name="Layer 2 VCF LFO2" value="0"/>
+  <param name="Layer 2 VCF Keyboard" value="1"/>
+  <param name="Layer 2 VCF Resonance" value="0"/>
+  <param name="Layer 2 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 2 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 2 HPF Frequency" value="0"/>
+  <param name="Layer 2 Bender VCO" value="0.192000002"/>
+  <param name="Layer 2 Bender VCF" value="0"/>
+  <param name="Layer 2 Modulation VCO" value="0.412"/>
+  <param name="Layer 2 Modulation VCF" value="0.412"/>
+  <param name="Layer 2 VCA Source" value="Gate"/>
+  <param name="Layer 2 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 2 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 2 ENV1 Attack" value="0.128000006"/>
+  <param name="Layer 2 ENV1 Decay" value="0.239999995"/>
+  <param name="Layer 2 ENV1 Sustain" value="0.5"/>
+  <param name="Layer 2 ENV1 Release" value="0"/>
+  <param name="Layer 2 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 2 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 2 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 2 ENV2 Decay" value="0.239999995"/>
+  <param name="Layer 2 ENV2 Sustain" value="0.5"/>
+  <param name="Layer 2 ENV2 Release" value="0"/>
+  <param name="Layer 2 LFO1 Waveform" value="Triangle"/>
+  <param name="Layer 2 LFO1 Reset" value="Gate"/>
+  <param name="Layer 2 LFO1 Sync" value="off"/>
+  <param name="Layer 2 LFO1 Mono" value="off"/>
+  <param name="Layer 2 LFO1 Keyboard Track" value="off"/>
+  <param name="Layer 2 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 2 LFO1 Note Rate" value="1/16 bar"/>
+  <param name="Layer 2 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 2 LFO2 Reset" value="Gate"/>
+  <param name="Layer 2 LFO2 Sync" value="off"/>
+  <param name="Layer 2 LFO2 Mono" value="off"/>
+  <param name="Layer 2 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 2 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 2 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 2 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 2 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 2 Polyphony Mode" value="Queue"/>
+  <param name="Layer 2 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 2 Arpe Preset Name" value="Default"/>
+  <param name="Layer 2 Arpe Mode" value="Off"/>
+  <param name="Layer 2 Arpe Range" value="1"/>
+  <param name="Layer 2 Arpe Repeat" value="1"/>
+  <param name="Layer 2 Arpe Shuffle" value="0"/>
+  <param name="Layer 2 Arpe Gate" value="0.5"/>
+  <param name="Layer 2 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 2 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 2 Arpe Chord Mode" value="false"/>
+  <param name="Layer 2 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 2 Arpe Length" value="16"/>
+  <param name="Layer 2 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 2 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 2 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 2 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 2 Fine Tune" value="0.5"/>
+  <param name="Layer 2 Paning" value="0.5"/>
+  <param name="Layer 2 Volume" value="0.5"/>
+  <param name="Layer 2 Mute" value="false"/>
+  <param name="Layer 2 Fader" value="0.800000012"/>
+  <param name="Layer 2 Compression" value="off"/>
+  <param name="Layer 2 Compression Attack" value="Mid"/>
+  <param name="Layer 2 Compression Ratio" value="1:2"/>
+  <param name="Layer 2 Compression Threshold" value="0.25"/>
+  <param name="Layer 2 EQ" value="off"/>
+  <param name="Layer 2 EQ Pre Comp" value="off"/>
+  <param name="Layer 2 EQ Low" value="0.5"/>
+  <param name="Layer 2 EQ Mid" value="0.5"/>
+  <param name="Layer 2 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 2 EQ Hi" value="0.5"/>
+  <param name="Layer 2 Pre Fader" value="off"/>
+  <param name="Layer 2 FX1 Send" value="0"/>
+  <param name="Layer 2 FX2 Send" value="0"/>
+  <param name="Layer 2 FX3 Send" value="0"/>
+  <param name="Layer 3 Enabled" value="false"/>
+  <param name="Layer 3 Transpose" value="0"/>
+  <param name="Layer 3 Zone Beginning" value="C-0"/>
+  <param name="Layer 3 Zone End" value="G-H"/>
+  <param name="Layer 3 Timbre Preset Name" value="Default"/>
+  <param name="Layer 3 Polyphony Voices" value="1"/>
+  <param name="Layer 3 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 3 Portamento Time" value="0"/>
+  <param name="Layer 3 Portamento Mode" value="Auto"/>
+  <param name="Layer 3 Unisono Voices" value="1"/>
+  <param name="Layer 3 Unisono Tune Spread" value="0"/>
+  <param name="Layer 3 Unisono Pan Spread" value="0"/>
+  <param name="Layer 3 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 3 Insert Effect" value="None"/>
+  <param name="Layer 3 Chorus Speed" value="Mid"/>
+  <param name="Layer 3 Chorus Mode" value="Fat"/>
+  <param name="Layer 3 Chorus Stereo" value="0.5"/>
+  <param name="Layer 3 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 3 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 3 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 3 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 3 Flanger Invert" value="off"/>
+  <param name="Layer 3 Flanger FX" value="0.5"/>
+  <param name="Layer 3 String Ensemble Mode" value="Light"/>
+  <param name="Layer 3 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 3 String Ensemble Phaser" value="off"/>
+  <param name="Layer 3 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 3 String Ensemble Color" value="on"/>
+  <param name="Layer 3 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 3 Phaser Mode" value="Single"/>
+  <param name="Layer 3 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 3 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 3 Vowel Resonance" value="0.5"/>
+  <param name="Layer 3 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 3 Vowel LFO Depth" value="0"/>
+  <param name="Layer 3 Vowel Position" value="0"/>
+  <param name="Layer 3 Vowel 1" value="A"/>
+  <param name="Layer 3 Vowel 2" value="E"/>
+  <param name="Layer 3 Vowel 3" value="I"/>
+  <param name="Layer 3 Vowel 4" value="O"/>
+  <param name="Layer 3 Vowel 5" value="U"/>
+  <param name="Layer 3 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 3 Distortion Dynamics" value="1"/>
+  <param name="Layer 3 Distortion Preamp" value="0.5"/>
+  <param name="Layer 3 Distortion Threshold" value="0.5"/>
+  <param name="Layer 3 Distortion Shape" value="1"/>
+  <param name="Layer 3 Decimator Preamp" value="0"/>
+  <param name="Layer 3 Decimator AA Mode" value="off"/>
+  <param name="Layer 3 Decimator Frequency" value="1"/>
+  <param name="Layer 3 Decimator Quantize" value="Off"/>
+  <param name="Layer 3 Tremolo Rate" value="0"/>
+  <param name="Layer 3 Tremolo Depth" value="0.5"/>
+  <param name="Layer 3 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 3 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 3 VCO Modulation" value="0"/>
+  <param name="Layer 3 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 3 VCO Tracking" value="on"/>
+  <param name="Layer 3 VCO Range" value="16'"/>
+  <param name="Layer 3 VCO Frequency" value="0.25"/>
+  <param name="Layer 3 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 3 VCO Sync Mode" value="off"/>
+  <param name="Layer 3 VCO Sync Offset" value="0"/>
+  <param name="Layer 3 VCO Sync Mix" value="0"/>
+  <param name="Layer 3 VCO Pulse Width" value="0"/>
+  <param name="Layer 3 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 3 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 3 Mixer SQR Volume" value="0"/>
+  <param name="Layer 3 Mixer SAW Volume" value="1"/>
+  <param name="Layer 3 Mixer SUB Volume" value="0"/>
+  <param name="Layer 3 Mixer SUB Wave" value="Pulse 2 Oct"/>
+  <param name="Layer 3 Mixer Noise Volume" value="0"/>
+  <param name="Layer 3 Mixer Noise Type" value="White"/>
+  <param name="Layer 3 Mixer SQR Env" value="off"/>
+  <param name="Layer 3 Mixer SAW Env" value="off"/>
+  <param name="Layer 3 Mixer SUB Env" value="off"/>
+  <param name="Layer 3 Mixer NOISE Env" value="off"/>
+  <param name="Layer 3 Super Saw" value="off"/>
+  <param name="Layer 3 Super Saw Detune" value="0"/>
+  <param name="Layer 3 Super Saw Amount" value="0"/>
+  <param name="Layer 3 Filter Type" value="LP"/>
+  <param name="Layer 3 Filter Mode" value="Normal"/>
+  <param name="Layer 3 VCF Frequency" value="1"/>
+  <param name="Layer 3 VCF ENV1" value="0"/>
+  <param name="Layer 3 VCF ENV2" value="0"/>
+  <param name="Layer 3 VCF LFO1" value="0"/>
+  <param name="Layer 3 VCF LFO2" value="0"/>
+  <param name="Layer 3 VCF Keyboard" value="1"/>
+  <param name="Layer 3 VCF Resonance" value="0"/>
+  <param name="Layer 3 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 3 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 3 HPF Frequency" value="0"/>
+  <param name="Layer 3 Bender VCO" value="0.192000002"/>
+  <param name="Layer 3 Bender VCF" value="0"/>
+  <param name="Layer 3 Modulation VCO" value="0.412"/>
+  <param name="Layer 3 Modulation VCF" value="0.412"/>
+  <param name="Layer 3 VCA Source" value="Gate"/>
+  <param name="Layer 3 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 3 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 3 ENV1 Attack" value="0.128000006"/>
+  <param name="Layer 3 ENV1 Decay" value="0.239999995"/>
+  <param name="Layer 3 ENV1 Sustain" value="0.5"/>
+  <param name="Layer 3 ENV1 Release" value="0"/>
+  <param name="Layer 3 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 3 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 3 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 3 ENV2 Decay" value="0.239999995"/>
+  <param name="Layer 3 ENV2 Sustain" value="0.5"/>
+  <param name="Layer 3 ENV2 Release" value="0"/>
+  <param name="Layer 3 LFO1 Waveform" value="Triangle"/>
+  <param name="Layer 3 LFO1 Reset" value="Gate"/>
+  <param name="Layer 3 LFO1 Sync" value="off"/>
+  <param name="Layer 3 LFO1 Mono" value="off"/>
+  <param name="Layer 3 LFO1 Keyboard Track" value="off"/>
+  <param name="Layer 3 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 3 LFO1 Note Rate" value="1/16 bar"/>
+  <param name="Layer 3 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 3 LFO2 Reset" value="Gate"/>
+  <param name="Layer 3 LFO2 Sync" value="off"/>
+  <param name="Layer 3 LFO2 Mono" value="off"/>
+  <param name="Layer 3 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 3 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 3 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 3 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 3 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 3 Polyphony Mode" value="Queue"/>
+  <param name="Layer 3 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 3 Arpe Preset Name" value="Default"/>
+  <param name="Layer 3 Arpe Mode" value="Off"/>
+  <param name="Layer 3 Arpe Range" value="1"/>
+  <param name="Layer 3 Arpe Repeat" value="1"/>
+  <param name="Layer 3 Arpe Shuffle" value="0"/>
+  <param name="Layer 3 Arpe Gate" value="0.5"/>
+  <param name="Layer 3 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 3 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 3 Arpe Chord Mode" value="false"/>
+  <param name="Layer 3 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 3 Arpe Length" value="16"/>
+  <param name="Layer 3 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 3 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 3 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 3 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 3 Fine Tune" value="0.5"/>
+  <param name="Layer 3 Paning" value="0.5"/>
+  <param name="Layer 3 Volume" value="0.5"/>
+  <param name="Layer 3 Mute" value="false"/>
+  <param name="Layer 3 Fader" value="0.800000012"/>
+  <param name="Layer 3 Compression" value="off"/>
+  <param name="Layer 3 Compression Attack" value="Mid"/>
+  <param name="Layer 3 Compression Ratio" value="1:2"/>
+  <param name="Layer 3 Compression Threshold" value="0.25"/>
+  <param name="Layer 3 EQ" value="off"/>
+  <param name="Layer 3 EQ Pre Comp" value="off"/>
+  <param name="Layer 3 EQ Low" value="0.5"/>
+  <param name="Layer 3 EQ Mid" value="0.5"/>
+  <param name="Layer 3 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 3 EQ Hi" value="0.5"/>
+  <param name="Layer 3 Pre Fader" value="off"/>
+  <param name="Layer 3 FX1 Send" value="0"/>
+  <param name="Layer 3 FX2 Send" value="0"/>
+  <param name="Layer 3 FX3 Send" value="0"/>
+  <param name="Layer 4 Enabled" value="false"/>
+  <param name="Layer 4 Transpose" value="0"/>
+  <param name="Layer 4 Zone Beginning" value="C-0"/>
+  <param name="Layer 4 Zone End" value="G-H"/>
+  <param name="Layer 4 Timbre Preset Name" value="Default"/>
+  <param name="Layer 4 Polyphony Voices" value="1"/>
+  <param name="Layer 4 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 4 Portamento Time" value="0"/>
+  <param name="Layer 4 Portamento Mode" value="Auto"/>
+  <param name="Layer 4 Unisono Voices" value="1"/>
+  <param name="Layer 4 Unisono Tune Spread" value="0"/>
+  <param name="Layer 4 Unisono Pan Spread" value="0"/>
+  <param name="Layer 4 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 4 Insert Effect" value="None"/>
+  <param name="Layer 4 Chorus Speed" value="Mid"/>
+  <param name="Layer 4 Chorus Mode" value="Fat"/>
+  <param name="Layer 4 Chorus Stereo" value="0.5"/>
+  <param name="Layer 4 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 4 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 4 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 4 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 4 Flanger Invert" value="off"/>
+  <param name="Layer 4 Flanger FX" value="0.5"/>
+  <param name="Layer 4 String Ensemble Mode" value="Light"/>
+  <param name="Layer 4 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 4 String Ensemble Phaser" value="off"/>
+  <param name="Layer 4 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 4 String Ensemble Color" value="on"/>
+  <param name="Layer 4 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 4 Phaser Mode" value="Single"/>
+  <param name="Layer 4 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 4 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 4 Vowel Resonance" value="0.5"/>
+  <param name="Layer 4 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 4 Vowel LFO Depth" value="0"/>
+  <param name="Layer 4 Vowel Position" value="0"/>
+  <param name="Layer 4 Vowel 1" value="A"/>
+  <param name="Layer 4 Vowel 2" value="E"/>
+  <param name="Layer 4 Vowel 3" value="I"/>
+  <param name="Layer 4 Vowel 4" value="O"/>
+  <param name="Layer 4 Vowel 5" value="U"/>
+  <param name="Layer 4 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 4 Distortion Dynamics" value="1"/>
+  <param name="Layer 4 Distortion Preamp" value="0.5"/>
+  <param name="Layer 4 Distortion Threshold" value="0.5"/>
+  <param name="Layer 4 Distortion Shape" value="1"/>
+  <param name="Layer 4 Decimator Preamp" value="0"/>
+  <param name="Layer 4 Decimator AA Mode" value="off"/>
+  <param name="Layer 4 Decimator Frequency" value="1"/>
+  <param name="Layer 4 Decimator Quantize" value="Off"/>
+  <param name="Layer 4 Tremolo Rate" value="0"/>
+  <param name="Layer 4 Tremolo Depth" value="0.5"/>
+  <param name="Layer 4 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 4 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 4 VCO Modulation" value="0"/>
+  <param name="Layer 4 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 4 VCO Tracking" value="on"/>
+  <param name="Layer 4 VCO Range" value="16'"/>
+  <param name="Layer 4 VCO Frequency" value="0.25"/>
+  <param name="Layer 4 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 4 VCO Sync Mode" value="off"/>
+  <param name="Layer 4 VCO Sync Offset" value="0"/>
+  <param name="Layer 4 VCO Sync Mix" value="0"/>
+  <param name="Layer 4 VCO Pulse Width" value="0"/>
+  <param name="Layer 4 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 4 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 4 Mixer SQR Volume" value="0"/>
+  <param name="Layer 4 Mixer SAW Volume" value="1"/>
+  <param name="Layer 4 Mixer SUB Volume" value="0"/>
+  <param name="Layer 4 Mixer SUB Wave" value="Pulse 2 Oct"/>
+  <param name="Layer 4 Mixer Noise Volume" value="0"/>
+  <param name="Layer 4 Mixer Noise Type" value="White"/>
+  <param name="Layer 4 Mixer SQR Env" value="off"/>
+  <param name="Layer 4 Mixer SAW Env" value="off"/>
+  <param name="Layer 4 Mixer SUB Env" value="off"/>
+  <param name="Layer 4 Mixer NOISE Env" value="off"/>
+  <param name="Layer 4 Super Saw" value="off"/>
+  <param name="Layer 4 Super Saw Detune" value="0"/>
+  <param name="Layer 4 Super Saw Amount" value="0"/>
+  <param name="Layer 4 Filter Type" value="LP"/>
+  <param name="Layer 4 Filter Mode" value="Normal"/>
+  <param name="Layer 4 VCF Frequency" value="1"/>
+  <param name="Layer 4 VCF ENV1" value="0"/>
+  <param name="Layer 4 VCF ENV2" value="0"/>
+  <param name="Layer 4 VCF LFO1" value="0"/>
+  <param name="Layer 4 VCF LFO2" value="0"/>
+  <param name="Layer 4 VCF Keyboard" value="1"/>
+  <param name="Layer 4 VCF Resonance" value="0"/>
+  <param name="Layer 4 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 4 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 4 HPF Frequency" value="0"/>
+  <param name="Layer 4 Bender VCO" value="0.192000002"/>
+  <param name="Layer 4 Bender VCF" value="0"/>
+  <param name="Layer 4 Modulation VCO" value="0.412"/>
+  <param name="Layer 4 Modulation VCF" value="0.412"/>
+  <param name="Layer 4 VCA Source" value="Gate"/>
+  <param name="Layer 4 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 4 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 4 ENV1 Attack" value="0.128000006"/>
+  <param name="Layer 4 ENV1 Decay" value="0.239999995"/>
+  <param name="Layer 4 ENV1 Sustain" value="0.5"/>
+  <param name="Layer 4 ENV1 Release" value="0"/>
+  <param name="Layer 4 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 4 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 4 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 4 ENV2 Decay" value="0.239999995"/>
+  <param name="Layer 4 ENV2 Sustain" value="0.5"/>
+  <param name="Layer 4 ENV2 Release" value="0"/>
+  <param name="Layer 4 LFO1 Waveform" value="Triangle"/>
+  <param name="Layer 4 LFO1 Reset" value="Gate"/>
+  <param name="Layer 4 LFO1 Sync" value="off"/>
+  <param name="Layer 4 LFO1 Mono" value="off"/>
+  <param name="Layer 4 LFO1 Keyboard Track" value="off"/>
+  <param name="Layer 4 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 4 LFO1 Note Rate" value="1/16 bar"/>
+  <param name="Layer 4 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 4 LFO2 Reset" value="Gate"/>
+  <param name="Layer 4 LFO2 Sync" value="off"/>
+  <param name="Layer 4 LFO2 Mono" value="off"/>
+  <param name="Layer 4 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 4 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 4 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 4 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 4 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 4 Polyphony Mode" value="Queue"/>
+  <param name="Layer 4 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 4 Arpe Preset Name" value="Default"/>
+  <param name="Layer 4 Arpe Mode" value="Off"/>
+  <param name="Layer 4 Arpe Range" value="1"/>
+  <param name="Layer 4 Arpe Repeat" value="1"/>
+  <param name="Layer 4 Arpe Shuffle" value="0"/>
+  <param name="Layer 4 Arpe Gate" value="0.5"/>
+  <param name="Layer 4 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 4 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 4 Arpe Chord Mode" value="false"/>
+  <param name="Layer 4 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 4 Arpe Length" value="16"/>
+  <param name="Layer 4 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 4 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 4 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 4 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 4 Fine Tune" value="0.5"/>
+  <param name="Layer 4 Paning" value="0.5"/>
+  <param name="Layer 4 Volume" value="0.5"/>
+  <param name="Layer 4 Mute" value="false"/>
+  <param name="Layer 4 Fader" value="0.800000012"/>
+  <param name="Layer 4 Compression" value="off"/>
+  <param name="Layer 4 Compression Attack" value="Mid"/>
+  <param name="Layer 4 Compression Ratio" value="1:2"/>
+  <param name="Layer 4 Compression Threshold" value="0.25"/>
+  <param name="Layer 4 EQ" value="off"/>
+  <param name="Layer 4 EQ Pre Comp" value="off"/>
+  <param name="Layer 4 EQ Low" value="0.5"/>
+  <param name="Layer 4 EQ Mid" value="0.5"/>
+  <param name="Layer 4 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 4 EQ Hi" value="0.5"/>
+  <param name="Layer 4 Pre Fader" value="off"/>
+  <param name="Layer 4 FX1 Send" value="0"/>
+  <param name="Layer 4 FX2 Send" value="0"/>
+  <param name="Layer 4 FX3 Send" value="0"/>
+  <param name="Layer 5 Enabled" value="false"/>
+  <param name="Layer 5 Transpose" value="0"/>
+  <param name="Layer 5 Zone Beginning" value="C-0"/>
+  <param name="Layer 5 Zone End" value="G-H"/>
+  <param name="Layer 5 Timbre Preset Name" value="Default"/>
+  <param name="Layer 5 Polyphony Voices" value="1"/>
+  <param name="Layer 5 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 5 Portamento Time" value="0"/>
+  <param name="Layer 5 Portamento Mode" value="Auto"/>
+  <param name="Layer 5 Unisono Voices" value="1"/>
+  <param name="Layer 5 Unisono Tune Spread" value="0"/>
+  <param name="Layer 5 Unisono Pan Spread" value="0"/>
+  <param name="Layer 5 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 5 Insert Effect" value="None"/>
+  <param name="Layer 5 Chorus Speed" value="Mid"/>
+  <param name="Layer 5 Chorus Mode" value="Fat"/>
+  <param name="Layer 5 Chorus Stereo" value="0.5"/>
+  <param name="Layer 5 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 5 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 5 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 5 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 5 Flanger Invert" value="off"/>
+  <param name="Layer 5 Flanger FX" value="0.5"/>
+  <param name="Layer 5 String Ensemble Mode" value="Light"/>
+  <param name="Layer 5 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 5 String Ensemble Phaser" value="off"/>
+  <param name="Layer 5 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 5 String Ensemble Color" value="on"/>
+  <param name="Layer 5 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 5 Phaser Mode" value="Single"/>
+  <param name="Layer 5 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 5 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 5 Vowel Resonance" value="0.5"/>
+  <param name="Layer 5 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 5 Vowel LFO Depth" value="0"/>
+  <param name="Layer 5 Vowel Position" value="0"/>
+  <param name="Layer 5 Vowel 1" value="A"/>
+  <param name="Layer 5 Vowel 2" value="E"/>
+  <param name="Layer 5 Vowel 3" value="I"/>
+  <param name="Layer 5 Vowel 4" value="O"/>
+  <param name="Layer 5 Vowel 5" value="U"/>
+  <param name="Layer 5 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 5 Distortion Dynamics" value="1"/>
+  <param name="Layer 5 Distortion Preamp" value="0.5"/>
+  <param name="Layer 5 Distortion Threshold" value="0.5"/>
+  <param name="Layer 5 Distortion Shape" value="1"/>
+  <param name="Layer 5 Decimator Preamp" value="0"/>
+  <param name="Layer 5 Decimator AA Mode" value="off"/>
+  <param name="Layer 5 Decimator Frequency" value="1"/>
+  <param name="Layer 5 Decimator Quantize" value="Off"/>
+  <param name="Layer 5 Tremolo Rate" value="0"/>
+  <param name="Layer 5 Tremolo Depth" value="0.5"/>
+  <param name="Layer 5 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 5 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 5 VCO Modulation" value="0"/>
+  <param name="Layer 5 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 5 VCO Tracking" value="on"/>
+  <param name="Layer 5 VCO Range" value="16'"/>
+  <param name="Layer 5 VCO Frequency" value="0.25"/>
+  <param name="Layer 5 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 5 VCO Sync Mode" value="off"/>
+  <param name="Layer 5 VCO Sync Offset" value="0"/>
+  <param name="Layer 5 VCO Sync Mix" value="0"/>
+  <param name="Layer 5 VCO Pulse Width" value="0"/>
+  <param name="Layer 5 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 5 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 5 Mixer SQR Volume" value="0"/>
+  <param name="Layer 5 Mixer SAW Volume" value="1"/>
+  <param name="Layer 5 Mixer SUB Volume" value="0"/>
+  <param name="Layer 5 Mixer SUB Wave" value="Pulse 2 Oct"/>
+  <param name="Layer 5 Mixer Noise Volume" value="0"/>
+  <param name="Layer 5 Mixer Noise Type" value="White"/>
+  <param name="Layer 5 Mixer SQR Env" value="off"/>
+  <param name="Layer 5 Mixer SAW Env" value="off"/>
+  <param name="Layer 5 Mixer SUB Env" value="off"/>
+  <param name="Layer 5 Mixer NOISE Env" value="off"/>
+  <param name="Layer 5 Super Saw" value="off"/>
+  <param name="Layer 5 Super Saw Detune" value="0"/>
+  <param name="Layer 5 Super Saw Amount" value="0"/>
+  <param name="Layer 5 Filter Type" value="LP"/>
+  <param name="Layer 5 Filter Mode" value="Normal"/>
+  <param name="Layer 5 VCF Frequency" value="1"/>
+  <param name="Layer 5 VCF ENV1" value="0"/>
+  <param name="Layer 5 VCF ENV2" value="0"/>
+  <param name="Layer 5 VCF LFO1" value="0"/>
+  <param name="Layer 5 VCF LFO2" value="0"/>
+  <param name="Layer 5 VCF Keyboard" value="1"/>
+  <param name="Layer 5 VCF Resonance" value="0"/>
+  <param name="Layer 5 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 5 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 5 HPF Frequency" value="0"/>
+  <param name="Layer 5 Bender VCO" value="0.192000002"/>
+  <param name="Layer 5 Bender VCF" value="0"/>
+  <param name="Layer 5 Modulation VCO" value="0.412"/>
+  <param name="Layer 5 Modulation VCF" value="0.412"/>
+  <param name="Layer 5 VCA Source" value="Gate"/>
+  <param name="Layer 5 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 5 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 5 ENV1 Attack" value="0.128000006"/>
+  <param name="Layer 5 ENV1 Decay" value="0.239999995"/>
+  <param name="Layer 5 ENV1 Sustain" value="0.5"/>
+  <param name="Layer 5 ENV1 Release" value="0"/>
+  <param name="Layer 5 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 5 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 5 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 5 ENV2 Decay" value="0.239999995"/>
+  <param name="Layer 5 ENV2 Sustain" value="0.5"/>
+  <param name="Layer 5 ENV2 Release" value="0"/>
+  <param name="Layer 5 LFO1 Waveform" value="Triangle"/>
+  <param name="Layer 5 LFO1 Reset" value="Gate"/>
+  <param name="Layer 5 LFO1 Sync" value="off"/>
+  <param name="Layer 5 LFO1 Mono" value="off"/>
+  <param name="Layer 5 LFO1 Keyboard Track" value="off"/>
+  <param name="Layer 5 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 5 LFO1 Note Rate" value="1/16 bar"/>
+  <param name="Layer 5 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 5 LFO2 Reset" value="Gate"/>
+  <param name="Layer 5 LFO2 Sync" value="off"/>
+  <param name="Layer 5 LFO2 Mono" value="off"/>
+  <param name="Layer 5 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 5 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 5 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 5 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 5 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 5 Polyphony Mode" value="Queue"/>
+  <param name="Layer 5 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 5 Arpe Preset Name" value="Default"/>
+  <param name="Layer 5 Arpe Mode" value="Off"/>
+  <param name="Layer 5 Arpe Range" value="1"/>
+  <param name="Layer 5 Arpe Repeat" value="1"/>
+  <param name="Layer 5 Arpe Shuffle" value="0"/>
+  <param name="Layer 5 Arpe Gate" value="0.5"/>
+  <param name="Layer 5 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 5 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 5 Arpe Chord Mode" value="false"/>
+  <param name="Layer 5 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 5 Arpe Length" value="16"/>
+  <param name="Layer 5 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 5 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 5 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 5 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 5 Fine Tune" value="0.5"/>
+  <param name="Layer 5 Paning" value="0.5"/>
+  <param name="Layer 5 Volume" value="0.5"/>
+  <param name="Layer 5 Mute" value="false"/>
+  <param name="Layer 5 Fader" value="0.800000012"/>
+  <param name="Layer 5 Compression" value="off"/>
+  <param name="Layer 5 Compression Attack" value="Mid"/>
+  <param name="Layer 5 Compression Ratio" value="1:2"/>
+  <param name="Layer 5 Compression Threshold" value="0.25"/>
+  <param name="Layer 5 EQ" value="off"/>
+  <param name="Layer 5 EQ Pre Comp" value="off"/>
+  <param name="Layer 5 EQ Low" value="0.5"/>
+  <param name="Layer 5 EQ Mid" value="0.5"/>
+  <param name="Layer 5 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 5 EQ Hi" value="0.5"/>
+  <param name="Layer 5 Pre Fader" value="off"/>
+  <param name="Layer 5 FX1 Send" value="0"/>
+  <param name="Layer 5 FX2 Send" value="0"/>
+  <param name="Layer 5 FX3 Send" value="0"/>
+  <param name="Layer 6 Enabled" value="false"/>
+  <param name="Layer 6 Transpose" value="0"/>
+  <param name="Layer 6 Zone Beginning" value="C-0"/>
+  <param name="Layer 6 Zone End" value="G-H"/>
+  <param name="Layer 6 Timbre Preset Name" value="Default"/>
+  <param name="Layer 6 Polyphony Voices" value="1"/>
+  <param name="Layer 6 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 6 Portamento Time" value="0"/>
+  <param name="Layer 6 Portamento Mode" value="Auto"/>
+  <param name="Layer 6 Unisono Voices" value="1"/>
+  <param name="Layer 6 Unisono Tune Spread" value="0"/>
+  <param name="Layer 6 Unisono Pan Spread" value="0"/>
+  <param name="Layer 6 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 6 Insert Effect" value="None"/>
+  <param name="Layer 6 Chorus Speed" value="Mid"/>
+  <param name="Layer 6 Chorus Mode" value="Fat"/>
+  <param name="Layer 6 Chorus Stereo" value="0.5"/>
+  <param name="Layer 6 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 6 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 6 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 6 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 6 Flanger Invert" value="off"/>
+  <param name="Layer 6 Flanger FX" value="0.5"/>
+  <param name="Layer 6 String Ensemble Mode" value="Light"/>
+  <param name="Layer 6 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 6 String Ensemble Phaser" value="off"/>
+  <param name="Layer 6 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 6 String Ensemble Color" value="on"/>
+  <param name="Layer 6 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 6 Phaser Mode" value="Single"/>
+  <param name="Layer 6 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 6 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 6 Vowel Resonance" value="0.5"/>
+  <param name="Layer 6 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 6 Vowel LFO Depth" value="0"/>
+  <param name="Layer 6 Vowel Position" value="0"/>
+  <param name="Layer 6 Vowel 1" value="A"/>
+  <param name="Layer 6 Vowel 2" value="E"/>
+  <param name="Layer 6 Vowel 3" value="I"/>
+  <param name="Layer 6 Vowel 4" value="O"/>
+  <param name="Layer 6 Vowel 5" value="U"/>
+  <param name="Layer 6 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 6 Distortion Dynamics" value="1"/>
+  <param name="Layer 6 Distortion Preamp" value="0.5"/>
+  <param name="Layer 6 Distortion Threshold" value="0.5"/>
+  <param name="Layer 6 Distortion Shape" value="1"/>
+  <param name="Layer 6 Decimator Preamp" value="0"/>
+  <param name="Layer 6 Decimator AA Mode" value="off"/>
+  <param name="Layer 6 Decimator Frequency" value="1"/>
+  <param name="Layer 6 Decimator Quantize" value="Off"/>
+  <param name="Layer 6 Tremolo Rate" value="0"/>
+  <param name="Layer 6 Tremolo Depth" value="0.5"/>
+  <param name="Layer 6 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 6 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 6 VCO Modulation" value="0"/>
+  <param name="Layer 6 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 6 VCO Tracking" value="on"/>
+  <param name="Layer 6 VCO Range" value="16'"/>
+  <param name="Layer 6 VCO Frequency" value="0.25"/>
+  <param name="Layer 6 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 6 VCO Sync Mode" value="off"/>
+  <param name="Layer 6 VCO Sync Offset" value="0"/>
+  <param name="Layer 6 VCO Sync Mix" value="0"/>
+  <param name="Layer 6 VCO Pulse Width" value="0"/>
+  <param name="Layer 6 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 6 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 6 Mixer SQR Volume" value="0"/>
+  <param name="Layer 6 Mixer SAW Volume" value="1"/>
+  <param name="Layer 6 Mixer SUB Volume" value="0"/>
+  <param name="Layer 6 Mixer SUB Wave" value="Pulse 2 Oct"/>
+  <param name="Layer 6 Mixer Noise Volume" value="0"/>
+  <param name="Layer 6 Mixer Noise Type" value="White"/>
+  <param name="Layer 6 Mixer SQR Env" value="off"/>
+  <param name="Layer 6 Mixer SAW Env" value="off"/>
+  <param name="Layer 6 Mixer SUB Env" value="off"/>
+  <param name="Layer 6 Mixer NOISE Env" value="off"/>
+  <param name="Layer 6 Super Saw" value="off"/>
+  <param name="Layer 6 Super Saw Detune" value="0"/>
+  <param name="Layer 6 Super Saw Amount" value="0"/>
+  <param name="Layer 6 Filter Type" value="LP"/>
+  <param name="Layer 6 Filter Mode" value="Normal"/>
+  <param name="Layer 6 VCF Frequency" value="1"/>
+  <param name="Layer 6 VCF ENV1" value="0"/>
+  <param name="Layer 6 VCF ENV2" value="0"/>
+  <param name="Layer 6 VCF LFO1" value="0"/>
+  <param name="Layer 6 VCF LFO2" value="0"/>
+  <param name="Layer 6 VCF Keyboard" value="1"/>
+  <param name="Layer 6 VCF Resonance" value="0"/>
+  <param name="Layer 6 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 6 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 6 HPF Frequency" value="0"/>
+  <param name="Layer 6 Bender VCO" value="0.192000002"/>
+  <param name="Layer 6 Bender VCF" value="0"/>
+  <param name="Layer 6 Modulation VCO" value="0.412"/>
+  <param name="Layer 6 Modulation VCF" value="0.412"/>
+  <param name="Layer 6 VCA Source" value="Gate"/>
+  <param name="Layer 6 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 6 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 6 ENV1 Attack" value="0.128000006"/>
+  <param name="Layer 6 ENV1 Decay" value="0.239999995"/>
+  <param name="Layer 6 ENV1 Sustain" value="0.5"/>
+  <param name="Layer 6 ENV1 Release" value="0"/>
+  <param name="Layer 6 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 6 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 6 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 6 ENV2 Decay" value="0.239999995"/>
+  <param name="Layer 6 ENV2 Sustain" value="0.5"/>
+  <param name="Layer 6 ENV2 Release" value="0"/>
+  <param name="Layer 6 LFO1 Waveform" value="Triangle"/>
+  <param name="Layer 6 LFO1 Reset" value="Gate"/>
+  <param name="Layer 6 LFO1 Sync" value="off"/>
+  <param name="Layer 6 LFO1 Mono" value="off"/>
+  <param name="Layer 6 LFO1 Keyboard Track" value="off"/>
+  <param name="Layer 6 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 6 LFO1 Note Rate" value="1/16 bar"/>
+  <param name="Layer 6 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 6 LFO2 Reset" value="Gate"/>
+  <param name="Layer 6 LFO2 Sync" value="off"/>
+  <param name="Layer 6 LFO2 Mono" value="off"/>
+  <param name="Layer 6 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 6 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 6 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 6 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 6 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 6 Polyphony Mode" value="Queue"/>
+  <param name="Layer 6 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 6 Arpe Preset Name" value="Default"/>
+  <param name="Layer 6 Arpe Mode" value="Off"/>
+  <param name="Layer 6 Arpe Range" value="1"/>
+  <param name="Layer 6 Arpe Repeat" value="1"/>
+  <param name="Layer 6 Arpe Shuffle" value="0"/>
+  <param name="Layer 6 Arpe Gate" value="0.5"/>
+  <param name="Layer 6 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 6 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 6 Arpe Chord Mode" value="false"/>
+  <param name="Layer 6 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 6 Arpe Length" value="16"/>
+  <param name="Layer 6 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 6 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 6 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 6 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 6 Fine Tune" value="0.5"/>
+  <param name="Layer 6 Paning" value="0.5"/>
+  <param name="Layer 6 Volume" value="0.5"/>
+  <param name="Layer 6 Mute" value="false"/>
+  <param name="Layer 6 Fader" value="0.800000012"/>
+  <param name="Layer 6 Compression" value="off"/>
+  <param name="Layer 6 Compression Attack" value="Mid"/>
+  <param name="Layer 6 Compression Ratio" value="1:2"/>
+  <param name="Layer 6 Compression Threshold" value="0.25"/>
+  <param name="Layer 6 EQ" value="off"/>
+  <param name="Layer 6 EQ Pre Comp" value="off"/>
+  <param name="Layer 6 EQ Low" value="0.5"/>
+  <param name="Layer 6 EQ Mid" value="0.5"/>
+  <param name="Layer 6 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 6 EQ Hi" value="0.5"/>
+  <param name="Layer 6 Pre Fader" value="off"/>
+  <param name="Layer 6 FX1 Send" value="0"/>
+  <param name="Layer 6 FX2 Send" value="0"/>
+  <param name="Layer 6 FX3 Send" value="0"/>
+  <param name="Layer 7 Enabled" value="false"/>
+  <param name="Layer 7 Transpose" value="0"/>
+  <param name="Layer 7 Zone Beginning" value="C-0"/>
+  <param name="Layer 7 Zone End" value="G-H"/>
+  <param name="Layer 7 Timbre Preset Name" value="Default"/>
+  <param name="Layer 7 Polyphony Voices" value="1"/>
+  <param name="Layer 7 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 7 Portamento Time" value="0"/>
+  <param name="Layer 7 Portamento Mode" value="Auto"/>
+  <param name="Layer 7 Unisono Voices" value="1"/>
+  <param name="Layer 7 Unisono Tune Spread" value="0"/>
+  <param name="Layer 7 Unisono Pan Spread" value="0"/>
+  <param name="Layer 7 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 7 Insert Effect" value="None"/>
+  <param name="Layer 7 Chorus Speed" value="Mid"/>
+  <param name="Layer 7 Chorus Mode" value="Fat"/>
+  <param name="Layer 7 Chorus Stereo" value="0.5"/>
+  <param name="Layer 7 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 7 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 7 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 7 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 7 Flanger Invert" value="off"/>
+  <param name="Layer 7 Flanger FX" value="0.5"/>
+  <param name="Layer 7 String Ensemble Mode" value="Light"/>
+  <param name="Layer 7 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 7 String Ensemble Phaser" value="off"/>
+  <param name="Layer 7 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 7 String Ensemble Color" value="on"/>
+  <param name="Layer 7 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 7 Phaser Mode" value="Single"/>
+  <param name="Layer 7 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 7 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 7 Vowel Resonance" value="0.5"/>
+  <param name="Layer 7 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 7 Vowel LFO Depth" value="0"/>
+  <param name="Layer 7 Vowel Position" value="0"/>
+  <param name="Layer 7 Vowel 1" value="A"/>
+  <param name="Layer 7 Vowel 2" value="E"/>
+  <param name="Layer 7 Vowel 3" value="I"/>
+  <param name="Layer 7 Vowel 4" value="O"/>
+  <param name="Layer 7 Vowel 5" value="U"/>
+  <param name="Layer 7 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 7 Distortion Dynamics" value="1"/>
+  <param name="Layer 7 Distortion Preamp" value="0.5"/>
+  <param name="Layer 7 Distortion Threshold" value="0.5"/>
+  <param name="Layer 7 Distortion Shape" value="1"/>
+  <param name="Layer 7 Decimator Preamp" value="0"/>
+  <param name="Layer 7 Decimator AA Mode" value="off"/>
+  <param name="Layer 7 Decimator Frequency" value="1"/>
+  <param name="Layer 7 Decimator Quantize" value="Off"/>
+  <param name="Layer 7 Tremolo Rate" value="0"/>
+  <param name="Layer 7 Tremolo Depth" value="0.5"/>
+  <param name="Layer 7 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 7 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 7 VCO Modulation" value="0"/>
+  <param name="Layer 7 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 7 VCO Tracking" value="on"/>
+  <param name="Layer 7 VCO Range" value="16'"/>
+  <param name="Layer 7 VCO Frequency" value="0.25"/>
+  <param name="Layer 7 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 7 VCO Sync Mode" value="off"/>
+  <param name="Layer 7 VCO Sync Offset" value="0"/>
+  <param name="Layer 7 VCO Sync Mix" value="0"/>
+  <param name="Layer 7 VCO Pulse Width" value="0"/>
+  <param name="Layer 7 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 7 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 7 Mixer SQR Volume" value="0"/>
+  <param name="Layer 7 Mixer SAW Volume" value="1"/>
+  <param name="Layer 7 Mixer SUB Volume" value="0"/>
+  <param name="Layer 7 Mixer SUB Wave" value="Pulse 2 Oct"/>
+  <param name="Layer 7 Mixer Noise Volume" value="0"/>
+  <param name="Layer 7 Mixer Noise Type" value="White"/>
+  <param name="Layer 7 Mixer SQR Env" value="off"/>
+  <param name="Layer 7 Mixer SAW Env" value="off"/>
+  <param name="Layer 7 Mixer SUB Env" value="off"/>
+  <param name="Layer 7 Mixer NOISE Env" value="off"/>
+  <param name="Layer 7 Super Saw" value="off"/>
+  <param name="Layer 7 Super Saw Detune" value="0"/>
+  <param name="Layer 7 Super Saw Amount" value="0"/>
+  <param name="Layer 7 Filter Type" value="LP"/>
+  <param name="Layer 7 Filter Mode" value="Normal"/>
+  <param name="Layer 7 VCF Frequency" value="1"/>
+  <param name="Layer 7 VCF ENV1" value="0"/>
+  <param name="Layer 7 VCF ENV2" value="0"/>
+  <param name="Layer 7 VCF LFO1" value="0"/>
+  <param name="Layer 7 VCF LFO2" value="0"/>
+  <param name="Layer 7 VCF Keyboard" value="1"/>
+  <param name="Layer 7 VCF Resonance" value="0"/>
+  <param name="Layer 7 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 7 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 7 HPF Frequency" value="0"/>
+  <param name="Layer 7 Bender VCO" value="0.192000002"/>
+  <param name="Layer 7 Bender VCF" value="0"/>
+  <param name="Layer 7 Modulation VCO" value="0.412"/>
+  <param name="Layer 7 Modulation VCF" value="0.412"/>
+  <param name="Layer 7 VCA Source" value="Gate"/>
+  <param name="Layer 7 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 7 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 7 ENV1 Attack" value="0.128000006"/>
+  <param name="Layer 7 ENV1 Decay" value="0.239999995"/>
+  <param name="Layer 7 ENV1 Sustain" value="0.5"/>
+  <param name="Layer 7 ENV1 Release" value="0"/>
+  <param name="Layer 7 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 7 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 7 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 7 ENV2 Decay" value="0.239999995"/>
+  <param name="Layer 7 ENV2 Sustain" value="0.5"/>
+  <param name="Layer 7 ENV2 Release" value="0"/>
+  <param name="Layer 7 LFO1 Waveform" value="Triangle"/>
+  <param name="Layer 7 LFO1 Reset" value="Gate"/>
+  <param name="Layer 7 LFO1 Sync" value="off"/>
+  <param name="Layer 7 LFO1 Mono" value="off"/>
+  <param name="Layer 7 LFO1 Keyboard Track" value="off"/>
+  <param name="Layer 7 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 7 LFO1 Note Rate" value="1/16 bar"/>
+  <param name="Layer 7 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 7 LFO2 Reset" value="Gate"/>
+  <param name="Layer 7 LFO2 Sync" value="off"/>
+  <param name="Layer 7 LFO2 Mono" value="off"/>
+  <param name="Layer 7 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 7 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 7 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 7 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 7 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 7 Polyphony Mode" value="Queue"/>
+  <param name="Layer 7 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 7 Arpe Preset Name" value="Default"/>
+  <param name="Layer 7 Arpe Mode" value="Off"/>
+  <param name="Layer 7 Arpe Range" value="1"/>
+  <param name="Layer 7 Arpe Repeat" value="1"/>
+  <param name="Layer 7 Arpe Shuffle" value="0"/>
+  <param name="Layer 7 Arpe Gate" value="0.5"/>
+  <param name="Layer 7 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 7 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 7 Arpe Chord Mode" value="false"/>
+  <param name="Layer 7 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 7 Arpe Length" value="16"/>
+  <param name="Layer 7 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 7 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 7 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 7 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 7 Fine Tune" value="0.5"/>
+  <param name="Layer 7 Paning" value="0.5"/>
+  <param name="Layer 7 Volume" value="0.5"/>
+  <param name="Layer 7 Mute" value="false"/>
+  <param name="Layer 7 Fader" value="0.800000012"/>
+  <param name="Layer 7 Compression" value="off"/>
+  <param name="Layer 7 Compression Attack" value="Mid"/>
+  <param name="Layer 7 Compression Ratio" value="1:2"/>
+  <param name="Layer 7 Compression Threshold" value="0.25"/>
+  <param name="Layer 7 EQ" value="off"/>
+  <param name="Layer 7 EQ Pre Comp" value="off"/>
+  <param name="Layer 7 EQ Low" value="0.5"/>
+  <param name="Layer 7 EQ Mid" value="0.5"/>
+  <param name="Layer 7 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 7 EQ Hi" value="0.5"/>
+  <param name="Layer 7 Pre Fader" value="off"/>
+  <param name="Layer 7 FX1 Send" value="0"/>
+  <param name="Layer 7 FX2 Send" value="0"/>
+  <param name="Layer 7 FX3 Send" value="0"/>
+  <param name="Layer 8 Enabled" value="false"/>
+  <param name="Layer 8 Transpose" value="0"/>
+  <param name="Layer 8 Zone Beginning" value="C-0"/>
+  <param name="Layer 8 Zone End" value="G-H"/>
+  <param name="Layer 8 Timbre Preset Name" value="Default"/>
+  <param name="Layer 8 Polyphony Voices" value="1"/>
+  <param name="Layer 8 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 8 Portamento Time" value="0"/>
+  <param name="Layer 8 Portamento Mode" value="Auto"/>
+  <param name="Layer 8 Unisono Voices" value="1"/>
+  <param name="Layer 8 Unisono Tune Spread" value="0"/>
+  <param name="Layer 8 Unisono Pan Spread" value="0"/>
+  <param name="Layer 8 Unisono Cutoff Spread" value="0"/>
+  <param name="Layer 8 Insert Effect" value="None"/>
+  <param name="Layer 8 Chorus Speed" value="Mid"/>
+  <param name="Layer 8 Chorus Mode" value="Fat"/>
+  <param name="Layer 8 Chorus Stereo" value="0.5"/>
+  <param name="Layer 8 Chorus Dry/Wet" value="0.5"/>
+  <param name="Layer 8 Flanger Depth" value="0.100000001"/>
+  <param name="Layer 8 Flanger Rate" value="0.300000012"/>
+  <param name="Layer 8 Flanger Feedback" value="0.800000012"/>
+  <param name="Layer 8 Flanger Invert" value="off"/>
+  <param name="Layer 8 Flanger FX" value="0.5"/>
+  <param name="Layer 8 String Ensemble Mode" value="Light"/>
+  <param name="Layer 8 String Ensemble Stereo" value="0.300000012"/>
+  <param name="Layer 8 String Ensemble Phaser" value="off"/>
+  <param name="Layer 8 String Ensemble Phaser Rate" value="0.200000003"/>
+  <param name="Layer 8 String Ensemble Color" value="on"/>
+  <param name="Layer 8 Phaser Speed" value="0.200000003"/>
+  <param name="Layer 8 Phaser Mode" value="Single"/>
+  <param name="Layer 8 Phaser Stereo" value="0.100000001"/>
+  <param name="Layer 8 Phaser Feedback" value="0.899999976"/>
+  <param name="Layer 8 Vowel Resonance" value="0.5"/>
+  <param name="Layer 8 Vowel LFO Rate" value="0.5"/>
+  <param name="Layer 8 Vowel LFO Depth" value="0"/>
+  <param name="Layer 8 Vowel Position" value="0"/>
+  <param name="Layer 8 Vowel 1" value="A"/>
+  <param name="Layer 8 Vowel 2" value="E"/>
+  <param name="Layer 8 Vowel 3" value="I"/>
+  <param name="Layer 8 Vowel 4" value="O"/>
+  <param name="Layer 8 Vowel 5" value="U"/>
+  <param name="Layer 8 Vowel Vocal Type" value="Robotic"/>
+  <param name="Layer 8 Distortion Dynamics" value="1"/>
+  <param name="Layer 8 Distortion Preamp" value="0.5"/>
+  <param name="Layer 8 Distortion Threshold" value="0.5"/>
+  <param name="Layer 8 Distortion Shape" value="1"/>
+  <param name="Layer 8 Decimator Preamp" value="0"/>
+  <param name="Layer 8 Decimator AA Mode" value="off"/>
+  <param name="Layer 8 Decimator Frequency" value="1"/>
+  <param name="Layer 8 Decimator Quantize" value="Off"/>
+  <param name="Layer 8 Tremolo Rate" value="0"/>
+  <param name="Layer 8 Tremolo Depth" value="0.5"/>
+  <param name="Layer 8 Tremolo Waveform" value="Sinus"/>
+  <param name="Layer 8 Tremolo Stereo Spread" value="0.100000001"/>
+  <param name="Layer 8 VCO Modulation" value="0"/>
+  <param name="Layer 8 VCO Modulation Source" value="LFO1"/>
+  <param name="Layer 8 VCO Tracking" value="on"/>
+  <param name="Layer 8 VCO Range" value="16'"/>
+  <param name="Layer 8 VCO Frequency" value="0.25"/>
+  <param name="Layer 8 VCO Range Filter Affect" value="on"/>
+  <param name="Layer 8 VCO Sync Mode" value="off"/>
+  <param name="Layer 8 VCO Sync Offset" value="0"/>
+  <param name="Layer 8 VCO Sync Mix" value="0"/>
+  <param name="Layer 8 VCO Pulse Width" value="0"/>
+  <param name="Layer 8 VCO Pulse Modulation" value="0"/>
+  <param name="Layer 8 VCO Pulse Modulation Source" value="LFO1"/>
+  <param name="Layer 8 Mixer SQR Volume" value="0"/>
+  <param name="Layer 8 Mixer SAW Volume" value="1"/>
+  <param name="Layer 8 Mixer SUB Volume" value="0"/>
+  <param name="Layer 8 Mixer SUB Wave" value="Pulse 2 Oct"/>
+  <param name="Layer 8 Mixer Noise Volume" value="0"/>
+  <param name="Layer 8 Mixer Noise Type" value="White"/>
+  <param name="Layer 8 Mixer SQR Env" value="off"/>
+  <param name="Layer 8 Mixer SAW Env" value="off"/>
+  <param name="Layer 8 Mixer SUB Env" value="off"/>
+  <param name="Layer 8 Mixer NOISE Env" value="off"/>
+  <param name="Layer 8 Super Saw" value="off"/>
+  <param name="Layer 8 Super Saw Detune" value="0"/>
+  <param name="Layer 8 Super Saw Amount" value="0"/>
+  <param name="Layer 8 Filter Type" value="LP"/>
+  <param name="Layer 8 Filter Mode" value="Normal"/>
+  <param name="Layer 8 VCF Frequency" value="1"/>
+  <param name="Layer 8 VCF ENV1" value="0"/>
+  <param name="Layer 8 VCF ENV2" value="0"/>
+  <param name="Layer 8 VCF LFO1" value="0"/>
+  <param name="Layer 8 VCF LFO2" value="0"/>
+  <param name="Layer 8 VCF Keyboard" value="1"/>
+  <param name="Layer 8 VCF Resonance" value="0"/>
+  <param name="Layer 8 VCF Resonance ENV2" value="0"/>
+  <param name="Layer 8 VCF Resonance LFO2" value="0"/>
+  <param name="Layer 8 HPF Frequency" value="0"/>
+  <param name="Layer 8 Bender VCO" value="0.192000002"/>
+  <param name="Layer 8 Bender VCF" value="0"/>
+  <param name="Layer 8 Modulation VCO" value="0.412"/>
+  <param name="Layer 8 Modulation VCF" value="0.412"/>
+  <param name="Layer 8 VCA Source" value="Gate"/>
+  <param name="Layer 8 ENV1 Polarity" value="Pos"/>
+  <param name="Layer 8 ENV1 Trigger Source" value="Gate"/>
+  <param name="Layer 8 ENV1 Attack" value="0.128000006"/>
+  <param name="Layer 8 ENV1 Decay" value="0.239999995"/>
+  <param name="Layer 8 ENV1 Sustain" value="0.5"/>
+  <param name="Layer 8 ENV1 Release" value="0"/>
+  <param name="Layer 8 ENV2 Polarity" value="Pos"/>
+  <param name="Layer 8 ENV2 Trigger Source" value="Gate"/>
+  <param name="Layer 8 ENV2 Attack" value="0.128000006"/>
+  <param name="Layer 8 ENV2 Decay" value="0.239999995"/>
+  <param name="Layer 8 ENV2 Sustain" value="0.5"/>
+  <param name="Layer 8 ENV2 Release" value="0"/>
+  <param name="Layer 8 LFO1 Waveform" value="Triangle"/>
+  <param name="Layer 8 LFO1 Reset" value="Gate"/>
+  <param name="Layer 8 LFO1 Sync" value="off"/>
+  <param name="Layer 8 LFO1 Mono" value="off"/>
+  <param name="Layer 8 LFO1 Keyboard Track" value="off"/>
+  <param name="Layer 8 LFO1 Rate" value="0.512000024"/>
+  <param name="Layer 8 LFO1 Note Rate" value="1/16 bar"/>
+  <param name="Layer 8 LFO2 Waveform" value="Triangle"/>
+  <param name="Layer 8 LFO2 Reset" value="Gate"/>
+  <param name="Layer 8 LFO2 Sync" value="off"/>
+  <param name="Layer 8 LFO2 Mono" value="off"/>
+  <param name="Layer 8 LFO2 Keyboard Track" value="off"/>
+  <param name="Layer 8 LFO2 Rate" value="0.512000024"/>
+  <param name="Layer 8 LFO2 Note Rate" value="1/16 bar"/>
+  <param name="Layer 8 Velocity Dynamics Curve" value="Linear"/>
+  <param name="Layer 8 Sustain Pedal Enabled" value="true"/>
+  <param name="Layer 8 Polyphony Mode" value="Queue"/>
+  <param name="Layer 8 Oscillators Hard Restart" value="off"/>
+  <param name="Layer 8 Arpe Preset Name" value="Default"/>
+  <param name="Layer 8 Arpe Mode" value="Off"/>
+  <param name="Layer 8 Arpe Range" value="1"/>
+  <param name="Layer 8 Arpe Repeat" value="1"/>
+  <param name="Layer 8 Arpe Shuffle" value="0"/>
+  <param name="Layer 8 Arpe Gate" value="0.5"/>
+  <param name="Layer 8 Arpe Rate Rhythmic Value" value="1/16"/>
+  <param name="Layer 8 Arpe Rate Rhythmic Scale" value="Full"/>
+  <param name="Layer 8 Arpe Chord Mode" value="false"/>
+  <param name="Layer 8 Arpe Hold Mode" value="Off"/>
+  <param name="Layer 8 Arpe Length" value="16"/>
+  <param name="Layer 8 Arpe Gate Step 1" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 2" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 3" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 4" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 5" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 6" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 7" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 8" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 9" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 10" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 11" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 12" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 13" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 14" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 15" value="true"/>
+  <param name="Layer 8 Arpe Gate Step 16" value="true"/>
+  <param name="Layer 8 Arpe Tie Step 1" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 2" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 3" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 4" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 5" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 6" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 7" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 8" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 9" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 10" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 11" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 12" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 13" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 14" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 15" value="false"/>
+  <param name="Layer 8 Arpe Tie Step 16" value="false"/>
+  <param name="Layer 8 Fine Tune" value="0.5"/>
+  <param name="Layer 8 Paning" value="0.5"/>
+  <param name="Layer 8 Volume" value="0.5"/>
+  <param name="Layer 8 Mute" value="false"/>
+  <param name="Layer 8 Fader" value="0.800000012"/>
+  <param name="Layer 8 Compression" value="off"/>
+  <param name="Layer 8 Compression Attack" value="Mid"/>
+  <param name="Layer 8 Compression Ratio" value="1:2"/>
+  <param name="Layer 8 Compression Threshold" value="0.25"/>
+  <param name="Layer 8 EQ" value="off"/>
+  <param name="Layer 8 EQ Pre Comp" value="off"/>
+  <param name="Layer 8 EQ Low" value="0.5"/>
+  <param name="Layer 8 EQ Mid" value="0.5"/>
+  <param name="Layer 8 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 8 EQ Hi" value="0.5"/>
+  <param name="Layer 8 Pre Fader" value="off"/>
+  <param name="Layer 8 FX1 Send" value="0"/>
+  <param name="Layer 8 FX2 Send" value="0"/>
+  <param name="Layer 8 FX3 Send" value="0"/>
+  <param name="Master Volume" value="0.5"/>
+  <param name="Arpeggio Sync Mode" value="Each Individual"/>
+  <param name="FX 1 Paning" value="0.5"/>
+  <param name="FX 1 Fader" value="0.800000012"/>
+  <param name="FX 1 EQ" value="off"/>
+  <param name="FX 1 EQ Low" value="0.5"/>
+  <param name="FX 1 EQ Mid" value="0.5"/>
+  <param name="FX 1 EQ Mid Frq" value="0.5"/>
+  <param name="FX 1 EQ Hi" value="0.5"/>
+  <param name="FX 2 Paning" value="0.5"/>
+  <param name="FX 2 Fader" value="0.800000012"/>
+  <param name="FX 2 EQ" value="off"/>
+  <param name="FX 2 EQ Low" value="0.5"/>
+  <param name="FX 2 EQ Mid" value="0.5"/>
+  <param name="FX 2 EQ Mid Frq" value="0.5"/>
+  <param name="FX 2 EQ Hi" value="0.5"/>
+  <param name="FX 3 Paning" value="0.5"/>
+  <param name="FX 3 Fader" value="0.800000012"/>
+  <param name="FX 3 EQ" value="off"/>
+  <param name="FX 3 EQ Low" value="0.5"/>
+  <param name="FX 3 EQ Mid" value="0.5"/>
+  <param name="FX 3 EQ Mid Frq" value="0.5"/>
+  <param name="FX 3 EQ Hi" value="0.5"/>
+  <param name="FX 1 Preset Name" value="Default"/>
+  <param name="FX 1 State" value="off"/>
+  <param name="FX 1 Early Size" value="0.400000006"/>
+  <param name="FX 1 Early Diffusion" value="1"/>
+  <param name="FX 1 Early Attenuation" value="1"/>
+  <param name="FX 1 Pre Delay" value="0.200000003"/>
+  <param name="FX 1 Modulation" value="0.100000001"/>
+  <param name="FX 1 XFader" value="0.5"/>
+  <param name="FX 1 Late Size" value="0.5"/>
+  <param name="FX 1 Late Diffusion" value="1"/>
+  <param name="FX 1 Late Attenuation" value="0.5"/>
+  <param name="FX 1 Late Feedback" value="0.600000024"/>
+  <param name="FX 2 Preset Name" value="Default"/>
+  <param name="FX 2 State" value="off"/>
+  <param name="FX 2 Stereo Spread" value="0"/>
+  <param name="FX 2 Feedback" value="0.5"/>
+  <param name="FX 2 Delay Time" value="0.5"/>
+  <param name="FX 2 Sync" value="off"/>
+  <param name="FX 2 Feedback Cutoff" value="1"/>
+  <param name="FX 2 Feedback Reso" value="0"/>
+  <param name="FX 2 Feedback Type" value="Off"/>
+  <param name="FX 2 Delay Left Scale" value="Full"/>
+  <param name="FX 2 Delay Time Left Nominator" value="3"/>
+  <param name="FX 2 Delay Time Left Denominator" value="16"/>
+  <param name="FX 2 Delay Right Scale" value="Full"/>
+  <param name="FX 2 Delay Time Right Nominator" value="3"/>
+  <param name="FX 2 Delay Time Right Denominator" value="16"/>
+  <param name="FX 2 Delay Time Join Channels" value="off"/>
+  <param name="FX 3 State" value="off"/>
+  <param name="FX 3 Offset" value="0.100000001"/>
+  <param name="FX 3 Depth" value="0.400000006"/>
+  <param name="FX 3 Rate" value="0.300000012"/>
+  <param name="FX 3 Mode" value="1"/>
+  <param name="FX 3 Hi Pass" value="0"/>
+  <param name="FX 3 Stereo" value="1"/>
+  <ExtraData>
+    <ModulationMatrixes>
+      <ModulationMatrix layer="0">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+      <ModulationMatrix layer="1">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+      <ModulationMatrix layer="2">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+      <ModulationMatrix layer="3">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+      <ModulationMatrix layer="4">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+      <ModulationMatrix layer="5">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+      <ModulationMatrix layer="6">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+      <ModulationMatrix layer="7">
+        <Assigns/>
+        <PitchScale>
+          <scale pitch="0" value="0"/>
+          <scale pitch="1" value="0.0078740157186985015869"/>
+          <scale pitch="2" value="0.015748031437397003174"/>
+          <scale pitch="3" value="0.023622047156095504761"/>
+          <scale pitch="4" value="0.031496062874794006348"/>
+          <scale pitch="5" value="0.039370078593492507935"/>
+          <scale pitch="6" value="0.047244094312191009521"/>
+          <scale pitch="7" value="0.055118110030889511108"/>
+          <scale pitch="8" value="0.062992125749588012695"/>
+          <scale pitch="9" value="0.070866145193576812744"/>
+          <scale pitch="10" value="0.078740157186985015869"/>
+          <scale pitch="11" value="0.086614176630973815918"/>
+          <scale pitch="12" value="0.094488188624382019043"/>
+          <scale pitch="13" value="0.10236220806837081909"/>
+          <scale pitch="14" value="0.11023622006177902222"/>
+          <scale pitch="15" value="0.11811023950576782227"/>
+          <scale pitch="16" value="0.12598425149917602539"/>
+          <scale pitch="17" value="0.13385826349258422852"/>
+          <scale pitch="18" value="0.14173229038715362549"/>
+          <scale pitch="19" value="0.14960630238056182861"/>
+          <scale pitch="20" value="0.15748031437397003174"/>
+          <scale pitch="21" value="0.16535432636737823486"/>
+          <scale pitch="22" value="0.17322835326194763184"/>
+          <scale pitch="23" value="0.18110236525535583496"/>
+          <scale pitch="24" value="0.18897637724876403809"/>
+          <scale pitch="25" value="0.19685038924217224121"/>
+          <scale pitch="26" value="0.20472441613674163818"/>
+          <scale pitch="27" value="0.21259842813014984131"/>
+          <scale pitch="28" value="0.22047244012355804443"/>
+          <scale pitch="29" value="0.22834645211696624756"/>
+          <scale pitch="30" value="0.23622047901153564453"/>
+          <scale pitch="31" value="0.24409449100494384766"/>
+          <scale pitch="32" value="0.25196850299835205078"/>
+          <scale pitch="33" value="0.25984251499176025391"/>
+          <scale pitch="34" value="0.26771652698516845703"/>
+          <scale pitch="35" value="0.27559053897857666016"/>
+          <scale pitch="36" value="0.28346458077430725098"/>
+          <scale pitch="37" value="0.2913385927677154541"/>
+          <scale pitch="38" value="0.29921260476112365723"/>
+          <scale pitch="39" value="0.30708661675453186035"/>
+          <scale pitch="40" value="0.31496062874794006348"/>
+          <scale pitch="41" value="0.3228346407413482666"/>
+          <scale pitch="42" value="0.33070865273475646973"/>
+          <scale pitch="43" value="0.33858266472816467285"/>
+          <scale pitch="44" value="0.34645670652389526367"/>
+          <scale pitch="45" value="0.3543307185173034668"/>
+          <scale pitch="46" value="0.36220473051071166992"/>
+          <scale pitch="47" value="0.37007874250411987305"/>
+          <scale pitch="48" value="0.37795275449752807617"/>
+          <scale pitch="49" value="0.3858267664909362793"/>
+          <scale pitch="50" value="0.39370077848434448242"/>
+          <scale pitch="51" value="0.40157479047775268555"/>
+          <scale pitch="52" value="0.40944883227348327637"/>
+          <scale pitch="53" value="0.41732284426689147949"/>
+          <scale pitch="54" value="0.42519685626029968262"/>
+          <scale pitch="55" value="0.43307086825370788574"/>
+          <scale pitch="56" value="0.44094488024711608887"/>
+          <scale pitch="57" value="0.44881889224052429199"/>
+          <scale pitch="58" value="0.45669290423393249512"/>
+          <scale pitch="59" value="0.46456691622734069824"/>
+          <scale pitch="60" value="0.47244095802307128906"/>
+          <scale pitch="61" value="0.48031497001647949219"/>
+          <scale pitch="62" value="0.48818898200988769531"/>
+          <scale pitch="63" value="0.49606299400329589844"/>
+          <scale pitch="64" value="0.50393700599670410156"/>
+          <scale pitch="65" value="0.51181101799011230469"/>
+          <scale pitch="66" value="0.51968502998352050781"/>
+          <scale pitch="67" value="0.52755904197692871094"/>
+          <scale pitch="68" value="0.53543305397033691406"/>
+          <scale pitch="69" value="0.54330706596374511719"/>
+          <scale pitch="70" value="0.55118107795715332031"/>
+          <scale pitch="71" value="0.55905508995056152344"/>
+          <scale pitch="72" value="0.56692916154861450195"/>
+          <scale pitch="73" value="0.57480317354202270508"/>
+          <scale pitch="74" value="0.5826771855354309082"/>
+          <scale pitch="75" value="0.59055119752883911133"/>
+          <scale pitch="76" value="0.59842520952224731445"/>
+          <scale pitch="77" value="0.60629922151565551758"/>
+          <scale pitch="78" value="0.6141732335090637207"/>
+          <scale pitch="79" value="0.62204724550247192383"/>
+          <scale pitch="80" value="0.62992125749588012695"/>
+          <scale pitch="81" value="0.63779526948928833008"/>
+          <scale pitch="82" value="0.6456692814826965332"/>
+          <scale pitch="83" value="0.65354329347610473633"/>
+          <scale pitch="84" value="0.66141730546951293945"/>
+          <scale pitch="85" value="0.66929131746292114258"/>
+          <scale pitch="86" value="0.6771653294563293457"/>
+          <scale pitch="87" value="0.68503934144973754883"/>
+          <scale pitch="88" value="0.69291341304779052734"/>
+          <scale pitch="89" value="0.70078742504119873047"/>
+          <scale pitch="90" value="0.70866143703460693359"/>
+          <scale pitch="91" value="0.71653544902801513672"/>
+          <scale pitch="92" value="0.72440946102142333984"/>
+          <scale pitch="93" value="0.73228347301483154297"/>
+          <scale pitch="94" value="0.74015748500823974609"/>
+          <scale pitch="95" value="0.74803149700164794922"/>
+          <scale pitch="96" value="0.75590550899505615234"/>
+          <scale pitch="97" value="0.76377952098846435547"/>
+          <scale pitch="98" value="0.77165353298187255859"/>
+          <scale pitch="99" value="0.77952754497528076172"/>
+          <scale pitch="100" value="0.78740155696868896484"/>
+          <scale pitch="101" value="0.79527556896209716797"/>
+          <scale pitch="102" value="0.80314958095550537109"/>
+          <scale pitch="103" value="0.81102359294891357422"/>
+          <scale pitch="104" value="0.81889766454696655273"/>
+          <scale pitch="105" value="0.82677167654037475586"/>
+          <scale pitch="106" value="0.83464568853378295898"/>
+          <scale pitch="107" value="0.84251970052719116211"/>
+          <scale pitch="108" value="0.85039371252059936523"/>
+          <scale pitch="109" value="0.85826772451400756836"/>
+          <scale pitch="110" value="0.86614173650741577148"/>
+          <scale pitch="111" value="0.87401574850082397461"/>
+          <scale pitch="112" value="0.88188976049423217773"/>
+          <scale pitch="113" value="0.88976377248764038086"/>
+          <scale pitch="114" value="0.89763778448104858398"/>
+          <scale pitch="115" value="0.90551179647445678711"/>
+          <scale pitch="116" value="0.91338580846786499023"/>
+          <scale pitch="117" value="0.92125982046127319336"/>
+          <scale pitch="118" value="0.92913383245468139648"/>
+          <scale pitch="119" value="0.93700784444808959961"/>
+          <scale pitch="120" value="0.94488191604614257812"/>
+          <scale pitch="121" value="0.95275592803955078125"/>
+          <scale pitch="122" value="0.96062994003295898438"/>
+          <scale pitch="123" value="0.9685039520263671875"/>
+          <scale pitch="124" value="0.97637796401977539062"/>
+          <scale pitch="125" value="0.98425197601318359375"/>
+          <scale pitch="126" value="0.99212598800659179688"/>
+          <scale pitch="127" value="1"/>
+        </PitchScale>
+      </ModulationMatrix>
+    </ModulationMatrixes>
+  </ExtraData>
+</Preset>
