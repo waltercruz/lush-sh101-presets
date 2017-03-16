@@ -2,13 +2,13 @@
 
 <Preset version="1.0" id="3333C848">
   <param name="Layer 1 Enabled" value="true"/>
-  <param name="Layer 1 Transpose" value="0"/>
+  <param name="Layer 1 Transpose" value="-12"/>
   <param name="Layer 1 Zone Beginning" value="C-0"/>
   <param name="Layer 1 Zone End" value="G-H"/>
   <param name="Layer 1 Timbre Preset Name" value="Default"/>
   <param name="Layer 1 Polyphony Voices" value="1"/>
-  <param name="Layer 1 Polyphony Mono Mode" value="on"/>
-  <param name="Layer 1 Portamento Time" value="0.461031228"/>
+  <param name="Layer 1 Polyphony Mono Mode" value="off"/>
+  <param name="Layer 1 Portamento Time" value="0"/>
   <param name="Layer 1 Portamento Mode" value="Auto"/>
   <param name="Layer 1 Unisono Voices" value="1"/>
   <param name="Layer 1 Unisono Tune Spread" value="0"/>
@@ -55,22 +55,22 @@
   <param name="Layer 1 Tremolo Depth" value="0.5"/>
   <param name="Layer 1 Tremolo Waveform" value="Sinus"/>
   <param name="Layer 1 Tremolo Stereo Spread" value="0.100000001"/>
-  <param name="Layer 1 VCO Modulation" value="0.000984375016"/>
+  <param name="Layer 1 VCO Modulation" value="0"/>
   <param name="Layer 1 VCO Modulation Source" value="LFO1"/>
   <param name="Layer 1 VCO Tracking" value="on"/>
-  <param name="Layer 1 VCO Range" value="2'"/>
+  <param name="Layer 1 VCO Range" value="16'"/>
   <param name="Layer 1 VCO Frequency" value="0.25"/>
   <param name="Layer 1 VCO Range Filter Affect" value="on"/>
   <param name="Layer 1 VCO Sync Mode" value="off"/>
   <param name="Layer 1 VCO Sync Offset" value="0"/>
   <param name="Layer 1 VCO Sync Mix" value="0"/>
-  <param name="Layer 1 VCO Pulse Width" value="0.871874988"/>
+  <param name="Layer 1 VCO Pulse Width" value="0"/>
   <param name="Layer 1 VCO Pulse Modulation" value="0"/>
   <param name="Layer 1 VCO Pulse Modulation Source" value="LFO1"/>
-  <param name="Layer 1 Mixer SQR Volume" value="0.298039228"/>
-  <param name="Layer 1 Mixer SAW Volume" value="0.592156887"/>
-  <param name="Layer 1 Mixer SUB Volume" value="0.486274511"/>
-  <param name="Layer 1 Mixer SUB Wave" value="Sqr 2 Oct"/>
+  <param name="Layer 1 Mixer SQR Volume" value="1"/>
+  <param name="Layer 1 Mixer SAW Volume" value="0"/>
+  <param name="Layer 1 Mixer SUB Volume" value="0"/>
+  <param name="Layer 1 Mixer SUB Wave" value="Pulse 2 Oct"/>
   <param name="Layer 1 Mixer Noise Volume" value="0"/>
   <param name="Layer 1 Mixer Noise Type" value="White"/>
   <param name="Layer 1 Mixer SQR Env" value="off"/>
@@ -81,17 +81,17 @@
   <param name="Layer 1 Super Saw Detune" value="0"/>
   <param name="Layer 1 Super Saw Amount" value="0"/>
   <param name="Layer 1 Filter Type" value="LP"/>
-  <param name="Layer 1 Filter Mode" value="SH-101"/>
-  <param name="Layer 1 VCF Frequency" value="1"/>
+  <param name="Layer 1 Filter Mode" value="Normal"/>
+  <param name="Layer 1 VCF Frequency" value="0.200000003"/>
   <param name="Layer 1 VCF ENV1" value="0"/>
-  <param name="Layer 1 VCF ENV2" value="0"/>
-  <param name="Layer 1 VCF LFO1" value="0.0298906248"/>
+  <param name="Layer 1 VCF ENV2" value="0.842519701"/>
+  <param name="Layer 1 VCF LFO1" value="0"/>
   <param name="Layer 1 VCF LFO2" value="0"/>
-  <param name="Layer 1 VCF Keyboard" value="0"/>
-  <param name="Layer 1 VCF Resonance" value="0.315417886"/>
+  <param name="Layer 1 VCF Keyboard" value="0.385826766"/>
+  <param name="Layer 1 VCF Resonance" value="0.0352941193"/>
   <param name="Layer 1 VCF Resonance ENV2" value="0"/>
   <param name="Layer 1 VCF Resonance LFO2" value="0"/>
-  <param name="Layer 1 HPF Frequency" value="0.526250005"/>
+  <param name="Layer 1 HPF Frequency" value="0"/>
   <param name="Layer 1 Bender VCO" value="0.192000002"/>
   <param name="Layer 1 Bender VCF" value="0"/>
   <param name="Layer 1 Modulation VCO" value="0.412"/>
@@ -100,22 +100,22 @@
   <param name="Layer 1 ENV1 Polarity" value="Pos"/>
   <param name="Layer 1 ENV1 Trigger Source" value="Gate"/>
   <param name="Layer 1 ENV1 Attack" value="0"/>
-  <param name="Layer 1 ENV1 Decay" value="0"/>
+  <param name="Layer 1 ENV1 Decay" value="0.458823532"/>
   <param name="Layer 1 ENV1 Sustain" value="1"/>
-  <param name="Layer 1 ENV1 Release" value="0.0941176489"/>
+  <param name="Layer 1 ENV1 Release" value="0.0156862754"/>
   <param name="Layer 1 ENV2 Polarity" value="Pos"/>
   <param name="Layer 1 ENV2 Trigger Source" value="Gate"/>
-  <param name="Layer 1 ENV2 Attack" value="0.128000006"/>
-  <param name="Layer 1 ENV2 Decay" value="0.101960786"/>
-  <param name="Layer 1 ENV2 Sustain" value="0.53725493"/>
-  <param name="Layer 1 ENV2 Release" value="0.145098045"/>
-  <param name="Layer 1 LFO1 Waveform" value="Saw Up"/>
+  <param name="Layer 1 ENV2 Attack" value="0"/>
+  <param name="Layer 1 ENV2 Decay" value="0.383915722"/>
+  <param name="Layer 1 ENV2 Sustain" value="0.102355391"/>
+  <param name="Layer 1 ENV2 Release" value="0.262745112"/>
+  <param name="Layer 1 LFO1 Waveform" value="Triangle"/>
   <param name="Layer 1 LFO1 Reset" value="Gate"/>
-  <param name="Layer 1 LFO1 Sync" value="on"/>
-  <param name="Layer 1 LFO1 Mono" value="on"/>
-  <param name="Layer 1 LFO1 Keyboard Track" value="on"/>
+  <param name="Layer 1 LFO1 Sync" value="off"/>
+  <param name="Layer 1 LFO1 Mono" value="off"/>
+  <param name="Layer 1 LFO1 Keyboard Track" value="off"/>
   <param name="Layer 1 LFO1 Rate" value="0.512000024"/>
-  <param name="Layer 1 LFO1 Note Rate" value="1/8 bar"/>
+  <param name="Layer 1 LFO1 Note Rate" value="1/16 bar"/>
   <param name="Layer 1 LFO2 Waveform" value="Triangle"/>
   <param name="Layer 1 LFO2 Reset" value="Gate"/>
   <param name="Layer 1 LFO2 Sync" value="off"/>
@@ -174,7 +174,7 @@
   <param name="Layer 1 Paning" value="0.5"/>
   <param name="Layer 1 Volume" value="1"/>
   <param name="Layer 1 Mute" value="false"/>
-  <param name="Layer 1 Fader" value="0.91371876"/>
+  <param name="Layer 1 Fader" value="0.926500022"/>
   <param name="Layer 1 Compression" value="off"/>
   <param name="Layer 1 Compression Attack" value="Mid"/>
   <param name="Layer 1 Compression Ratio" value="1:2"/>
@@ -182,8 +182,8 @@
   <param name="Layer 1 EQ" value="off"/>
   <param name="Layer 1 EQ Pre Comp" value="off"/>
   <param name="Layer 1 EQ Low" value="0.5"/>
-  <param name="Layer 1 EQ Mid" value="0.5"/>
-  <param name="Layer 1 EQ Mid Frq" value="0.5"/>
+  <param name="Layer 1 EQ Mid" value="0.285031259"/>
+  <param name="Layer 1 EQ Mid Frq" value="0.356453121"/>
   <param name="Layer 1 EQ Hi" value="0.5"/>
   <param name="Layer 1 Pre Fader" value="off"/>
   <param name="Layer 1 FX1 Send" value="0"/>
